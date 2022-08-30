@@ -31,7 +31,7 @@ Here are our ten core certifications:
 </p>
 
 <ol>
-  <h4><li>Responsive Web Design Certification</li></h4>
+  <h4><li><a href='https://www.freecodecamp.org/certification/fcc9eed9ca1-8736-4a4f-8cd4-edefc8d88506/responsive-web-design' target='_blank'>Responsive Web Design Certification</a></li></h4>
     <ul>
       <li><a href='https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/'>Basic HTML and HTML5</a></li>
       <li><a href='https://www.freecodecamp.org/learn/responsive-web-design/basic-css/'>Basic CSS</a></li>
